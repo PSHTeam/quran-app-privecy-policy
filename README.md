@@ -1,5 +1,8 @@
 # Privacy Policy for the Quran App by Sheikh Najeeb Al-Amri
 
+**Last updated: April 26, 2024**
+
+
 ## Introduction
 The Quran App by Sheikh Najeeb Al-Amri provides users with the ability to listen to and download Quranic Surahs. Our goal is to offer an enriching and spiritual experience to the listeners of the Quran.
 
