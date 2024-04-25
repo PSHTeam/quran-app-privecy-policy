@@ -19,6 +19,6 @@ Users have the right to access and delete the downloaded audio files from their 
 We reserve the right to modify the privacy policy at any time. Users will be notified of any changes via the app or the official website.
 
 ## Contact
-For any inquiries or concerns about privacy, you can contact us at [info@example.com].
+For any inquiries or concerns about privacy, you can contact us at [pshteam.developers@gmail.com].
 
 Thank you for using the Quran App by Sheikh Najeeb Al-Amri.
